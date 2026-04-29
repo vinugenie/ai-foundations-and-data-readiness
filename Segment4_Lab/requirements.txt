@@ -1,0 +1,7 @@
+# Segment 4 Lab — Python dependencies
+# Install with:  pip install -r requirements.txt
+
+pysnmp>=7.0.0       # SNMP polling library (pure Python)
+pandas>=2.0.0       # Data wrangling
+numpy>=1.24.0       # Numeric arrays
+matplotlib>=3.7.0   # Plots for the aggregation demo
